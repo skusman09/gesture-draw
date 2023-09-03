@@ -1,0 +1,5 @@
+opencv-python>=4.7.0
+mediapipe==0.10.35
+numpy>=1.26.0
+pytest>=7.0.0
+mypy>=1.10.0
